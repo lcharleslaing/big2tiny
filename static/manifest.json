@@ -1,0 +1,71 @@
+{
+  "name": "Big2Tiny Web Application",
+  "short_name": "Big2Tiny",
+  "start_url": "/?home=true",
+  "icons": [
+    {
+      "src": "icons/Icon29x29.png",
+      "sizes": "29x29",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon40x40.png",
+      "sizes": "40x40",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon80x80.png",
+      "sizes": "80x80",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon87x87.png",
+      "sizes": "87x87",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon167x167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon1240x1240.png",
+      "sizes": "1240x1240",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#076491",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
