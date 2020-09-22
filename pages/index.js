@@ -8,6 +8,7 @@ export default function Home() {
             <Head>
                 <title>Big2Tiny Starter!</title>
                 <link rel="icon" href="/favicon.ico"/>
+                <link rel="manifest" type="manifest" crossOrigin="use-credentials" href="../manifest.webmanifest"/>
             </Head>
 
             <Navbar/>
