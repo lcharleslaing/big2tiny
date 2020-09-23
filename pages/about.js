@@ -5,8 +5,8 @@ function About() {
     return (
         <>
             <Navbar/>
-            <div className="container" style={{padding: '20px'}}>
-                <h3>About Page</h3>
+            <div className="container" style={{padding: '20px', textAlign: 'center'}}>
+                <h1>About Page</h1>
             </div>
         </>
     )

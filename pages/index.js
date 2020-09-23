@@ -10,8 +10,7 @@ export default function Home() {
                 <title>Big2Tiny</title>
                 <link rel="icon" href="../public/favicon.ico"/>
             </Head>
-
-            <Navbar/>
+            <Navbar />
             <main>
                 <img
                     className="home-image"

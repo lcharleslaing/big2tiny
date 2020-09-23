@@ -7,6 +7,7 @@ import Button from "@material-ui/core/Button";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import MenuDrawerLeft from "@components/MenuDrawerLeft";
 import MenuDrawerBottom from "@components/MenuDrawerBottom";
+import Avatar from "@material-ui/core/Avatar";
 
 
 function Navbar() {
@@ -39,6 +40,9 @@ function Navbar() {
                     <IconButton onClick={handleDrawer} color='inherit' edge='start' aria-label="Menu">
                         <Menu/>
                     </IconButton>
+                    <Typography variant="h6" style={{flexGrow: 1}}>
+                        <Avatar alt="Remy Sharp" src="/static/icons/Icon29x29.png" />
+                    </Typography>
                     <Typography variant="h6" style={{flexGrow: 1}}>
                         Big2Tiny
                     </Typography>

@@ -13,6 +13,9 @@ function MenuDrawerLeft() {
                 <Link href="/"><ListItem button>Home</ListItem></Link>
                 <Link href="/about"><ListItem button>About</ListItem></Link>
                 <Link href="/contact"><ListItem button>Contact</ListItem></Link>
+                <Link href="/alro_picks"><ListItem button>Alro MH App</ListItem></Link>
+                <Link href="/tasks"><ListItem button>Task App</ListItem></Link>
+                <Link href="/study_notes"><ListItem button>Study Notes App</ListItem></Link>
             </List>
         </div>
     )

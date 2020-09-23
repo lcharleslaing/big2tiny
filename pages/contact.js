@@ -4,9 +4,9 @@ import Navbar from "@components/Navbar";
 function Contact() {
     return (
         <>
-            <Navbar/>
-            <div className="container" style={{padding: '20px'}}>
-                <h3>Contact Page</h3>
+            <Navbar />
+            <div className="container" style={{padding: '20px', textAlign: 'center'}}>
+                <h1>Contact Page</h1>
             </div>
         </>
     )
